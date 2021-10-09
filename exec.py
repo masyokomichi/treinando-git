@@ -9,4 +9,4 @@
 #nome = input()
 #print("O nome digitado foi: " + nome)
 
-print("Olá alunas a Turma Construdelas")
+print("Olá alunas da Turma Construdelas")
