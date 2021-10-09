@@ -5,6 +5,8 @@
 
 #professor mandou colocar essas alterações
 
-print("Digite o seu nome:")
-nome = input()
-print("O nome digitado foi: " + nome)
+#print("Digite o seu nome:")
+#nome = input()
+#print("O nome digitado foi: " + nome)
+
+print("Olá alunas a Turma Construdelas")
